@@ -10,7 +10,7 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@Nakul102](https://github.com/Nakul102)
+- **MEMBER_1** - 2023UCS1592 - [@Nakul](https://github.com/Nakul102)
 - **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 - **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 - **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
