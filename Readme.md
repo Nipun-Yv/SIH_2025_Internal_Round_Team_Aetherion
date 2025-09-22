@@ -4,13 +4,13 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** Aetherion
 
 **Team Leader:** [@USERNAME](https://github.com/USERNAME)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - 2023UCS1592 - [@Nakul](https://github.com/Nakul102)
 - **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 - **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 - **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
