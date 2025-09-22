@@ -6,15 +6,15 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** Aetherion
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [Aman](https://github.com/USERNAME)
 
 **Team Members:**
 
-- **MEMBER_1** - 2023UCS1592 - [@Nakul](https://github.com/Nakul102)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - 2023UCS1592 - [Nakul](https://github.com/Nakul102)
+- **MEMBER_2** - 2023UCS1591 - [Nipun](https://github.com/Nipun-Yv)
+- **MEMBER_3** - 2023UCS1595 - [Aman](https://github.com/amanpandey2587)
+- **MEMBER_4** - 2023UCS1551 - [Piyush](https://github.com/YSH-005)
+- **MEMBER_5** - 2023UCS1620 - [Pratyush](https://github.com/PratyushChaudhary)
 - **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Links
