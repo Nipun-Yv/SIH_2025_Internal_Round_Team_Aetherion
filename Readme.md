@@ -1,5 +1,3 @@
-<img width="1918" height="986" alt="image" src="https://github.com/user-attachments/assets/eb084f90-40b5-42f3-a1fd-8cdae965b490" /># PS Chosen SIH Hackathon
-
 # PS Chosen SIH Hackathon
 PS ID- 25032
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
