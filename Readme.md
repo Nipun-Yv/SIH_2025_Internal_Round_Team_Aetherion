@@ -1,5 +1,4 @@
 # PS Chosen SIH Hackathon
-PS ID- 25032
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
 ## Team Details
@@ -21,7 +20,7 @@ This README provides an overview of the project, including team details, relevan
 
 - **SIH Presentation:** [Final SIH Presentation](https://docs.google.com/presentation/d/18u79_0KHKilIN36uDSMZE1zIbbRaR312VHuYhvv0yeY/edit?usp=sharing)
 - **Video Demonstration:** [youtube link](https://youtu.be/uXzFk-swRdA)
-- **Live Deployment:** [NA](DEPLOYED LINK IF ANY)
+- **Live Deployment:** [NA]
 - **Source Code:** [GitHub Repository](https://github.com/Nipun-Yv/sih-2025)
-- **Additional Resources:** [NA](ANY OTHER RELEVANT LINKS)
+- **Additional Resources:** [NA]
 
